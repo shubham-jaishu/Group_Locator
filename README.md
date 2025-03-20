@@ -61,12 +61,12 @@ This project aims to create a dynamic and interactive map-based interface to tra
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/real-time-location-tracker.git
+   git clone https://github.com/shubham-jaishu/Group_Locator.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd real-time-location-tracker
+   cd Group_Locator
    ```
 
 3. Install dependencies:
